@@ -76,7 +76,8 @@
 ---
 ## 2. 개발 일정
 
-![계발 일정](DevelopReport/image/개발계획서.png)
+image::개발계획서.png[height=500]
+
 
 ---
 

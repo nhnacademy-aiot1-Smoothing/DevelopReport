@@ -76,7 +76,7 @@
 ---
 ## 2. 개발 일정
 
-image::개발계획서.png[height=500]
+image::개발계획서.png[height=300]
 
 
 ---
